@@ -1,14 +1,5 @@
 # Hello there, I'm Deepak 👋
 
-## Technologies and Tools:
-
- OS Stack 
-![Linux]https://camo.githubusercontent.com/9a7d41523541f1a31d2639e15ceae42163a7295225f7e8390882c69b49d406e2/68747470733a2f2f6272616e646c6f676f732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f30332f4c696e75782d6c6f676f2e706e67
-
-  DevOps Stack
- ![Docker](https://camo.githubusercontent.com/9a7d41523541f1a31d2639e15ceae42163a7295225f7e8390882c69b49d406e2/68747470733a2f2f6272616e646c6f676f732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f30332f4c696e75782d6c6f676f2e706e67)
- 
-
 ## About Me
 - 🌱  I'm a **fresh graduate** with a passion for **cloud computing**, **DevOps**, and **software development**. 
 - 👨‍💻 I’m proficient in **Docker, Kubernetes, Terraform, Jenkins, Azure DevOps, Git, Linux,Cloud (Azure & AWS)** 
